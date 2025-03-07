@@ -18,6 +18,7 @@ The final product is pretty rushed and probably not that fun; I had to balance a
 ### Things I'd Go Back On
 * The algorithm for spawning new Molochs is very basic, rushed, and copy-paste happy. I just didn't have time to do it right. I think it sometimes results in a fresh Moloch spawning over an existing one.
 * I would've liked at least one more enemy; maybe a "passive" one that makes certain platforms unsafe at certain times, to encourage movement.
+* There is a giant uncompressed 2000x2000 JPG of a cardboard box that makes up the background of the playspace. I did this out of panic and I think it's the reason the final binary is 12MB or so uncompressed. Sorry.
 
 ### Things I Wanted To Do
 * Originally, with different weapons, the player's hands would have changed to be holding it; the harmonic weapon would be a harp, the "punch" would be a sword, the Big Bang would be a...uh, something, I guess. This is why the player is armless in the final game; I ran out of time to arm him!
