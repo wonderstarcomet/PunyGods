@@ -14,6 +14,7 @@ The final product is pretty rushed and probably not that fun; I had to balance a
 * I'm happy with the aesthetic I settled on. It gives the game a charming low-rent feel and is a good excuse for why things aren't animated. :P
 * The little roman soldier with the key is adorable. I wish I could've given him arms, though...
 * I think there is real potential for something like a mobile arcade game or whatever, it just needs more fleshing out. Probably needs a bigger level, too.
+* I think the "spawner" pattern I've invented is pretty good if you want objects to have their traits assigned via structs. It makes things very modular if you set it up right and GameMaker actually encourages this behavior with the new and constructor keywords. Look at me, ma, no OOP!
 
 ### Things I'd Go Back On
 * The algorithm for spawning new Molochs is very basic, rushed, and copy-paste happy. I just didn't have time to do it right. I think it sometimes results in a fresh Moloch spawning over an existing one.
